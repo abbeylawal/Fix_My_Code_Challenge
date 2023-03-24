@@ -27,7 +27,7 @@
     <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}, {&quot;id&quot;: &quot;21656311196&quot;, &quot;key&quot;: &quot;opened_downgrade_dialog&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21467712175&quot;, &quot;key&quot;: &quot;click.downgrade_keep&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21484112202&quot;, &quot;key&quot;: &quot;click.downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21495292213&quot;, &quot;key&quot;: &quot;click.downgrade_survey_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21508241468&quot;, &quot;key&quot;: &quot;click.downgrade_survey_submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21512030356&quot;, &quot;key&quot;: &quot;click.downgrade_support&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21539090022&quot;, &quot;key&quot;: &quot;click.downgrade_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21543640644&quot;, &quot;key&quot;: &quot;click_fetch_upstream&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21646510300&quot;, &quot;key&quot;: &quot;click.move_your_work&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21656151116&quot;, &quot;key&quot;: &quot;click.add_branch_protection_rule&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21663860599&quot;, &quot;key&quot;: &quot;click.downgrade_dialog_open&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21687860483&quot;, &quot;key&quot;: &quot;click.learn_about_protected_branches&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21689050333&quot;, &quot;key&quot;: &quot;click.dismiss_protect_this_branch&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21864370109&quot;, &quot;key&quot;: &quot;click.sign_in&quot;}], &quot;revision&quot;: &quot;1372&quot;}" />
 
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-53efd1e12c61.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-0e96a06f683b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-327bbf-0aaeb22dd2a5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-21fc7a4a0e8f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-1a3ab62fa5e0.js"></script>
@@ -53,7 +53,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_be-f5afdb-09a03d8bfce2.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-0af96d15a250.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-2e2258-c72c54ce3681.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-0cd932b9d025.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-a4d3b3e7aa44.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-0eeed1b34f83.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-fe0b8ccc90a5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-86e9ba7bffb7.js"></script>
@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5f78171ebd72.js"></script>
   
 
-  <title>0x00-Fix_My_Code_Challenge/free_dlistint.c at master · holbertonschool/0x00-Fix_My_Code_Challenge</title>
+  <title>Fix_My_Code_Challenge/free_dlistint.c at main · Aysuarex/Fix_My_Code_Challenge</title>
 
 
 
@@ -80,10 +80,10 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="CA70:4E30:22BFF5E:237BBDB:641DD2DA" data-turbo-transient="true" /><meta name="html-safe-nonce" content="26fdba8b92eb5b14f0a2ce8a31af7ba25ae74e3d6d0caf80bb3ea1a34d456bc4" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ob2xiZXJ0b25zY2hvb2wvMHgwMC1GaXhfTXlfQ29kZV9DaGFsbGVuZ2UvdHJlZS9tYXN0ZXIvNC1kZWxldGVfZG5vZGVpbnQiLCJyZXF1ZXN0X2lkIjoiQ0E3MDo0RTMwOjIyQkZGNUU6MjM3QkJEQjo2NDFERDJEQSIsInZpc2l0b3JfaWQiOiIzMDgwNTY2MTk2NjU5NDMyMDcxIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="30482fae7b75d4a40ef2f4524984a4a30ef7fccfc7ae3dca8fd55b431d14b51e" data-turbo-transient="true" />
+  <meta name="request-id" content="CAA7:59ED:237A605:243A63B:641DD326" data-turbo-transient="true" /><meta name="html-safe-nonce" content="b4c7adf38ecacfbcdf01ea20f93be2941e6e8318573e4b67077689387fc86dfb" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BeXN1YXJleC9GaXhfTXlfQ29kZV9DaGFsbGVuZ2UvdHJlZS9tYWluLzB4MDAtY2hhbGxlbmdlLzQtZGVsZXRlX2Rub2RlaW50IiwicmVxdWVzdF9pZCI6IkNBQTc6NTlFRDoyMzdBNjA1OjI0M0E2M0I6NjQxREQzMjYiLCJ2aXNpdG9yX2lkIjoiODE0OTA2MjM3Njg4MjA2NTA0NyIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="135bfcab51c3a323884bec5afa20b393ef6c6d105dc8a96d784208e32827d4db" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:100750922" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:526976314" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -97,7 +97,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
   <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
 
-<meta name="octolytics-url" content="https://collector.github.com/github/collect" /><meta name="octolytics-actor-id" content="115574712" /><meta name="octolytics-actor-login" content="poldatateam" /><meta name="octolytics-actor-hash" content="25039bbeab68b24e98972e920d97ee85392da205d046ccff04867370ca78404b" />
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" /><meta name="octolytics-actor-id" content="55659240" /><meta name="octolytics-actor-login" content="abbeylawal" /><meta name="octolytics-actor-hash" content="a2872328767b625567e1ca4c80a9671d948c1c2591f2d5c5ab6fadb9db57dca2" />
 
   <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-turbo-transient="true" />
 
@@ -108,22 +108,22 @@
 
   
 
-    <meta name="user-login" content="poldatateam">
+    <meta name="user-login" content="abbeylawal">
 
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Contribute to holbertonschool/0x00-Fix_My_Code_Challenge development by creating an account on GitHub.">
+      <meta name="description" content="A coding challenge by ALX, where you fix code written by others, across different programming languages. - Fix_My_Code_Challenge/free_dlistint.c at main · Aysuarex/Fix_My_Code_Challenge">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/875668c0ce449e720378ab21b3c4676934103bc4e1f19eb41071e7adc3c9fd80/holbertonschool/0x00-Fix_My_Code_Challenge" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="0x00-Fix_My_Code_Challenge/free_dlistint.c at master · holbertonschool/0x00-Fix_My_Code_Challenge" /><meta name="twitter:description" content="Contribute to holbertonschool/0x00-Fix_My_Code_Challenge development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/875668c0ce449e720378ab21b3c4676934103bc4e1f19eb41071e7adc3c9fd80/holbertonschool/0x00-Fix_My_Code_Challenge" /><meta property="og:image:alt" content="Contribute to holbertonschool/0x00-Fix_My_Code_Challenge development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="0x00-Fix_My_Code_Challenge/free_dlistint.c at master · holbertonschool/0x00-Fix_My_Code_Challenge" /><meta property="og:url" content="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge" /><meta property="og:description" content="Contribute to holbertonschool/0x00-Fix_My_Code_Challenge development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/93e91fcc48e9cbd9edcf7e818177bf19dd097d2d92cf36443d3998d10fb651a5/Aysuarex/Fix_My_Code_Challenge" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Fix_My_Code_Challenge/free_dlistint.c at main · Aysuarex/Fix_My_Code_Challenge" /><meta name="twitter:description" content="A coding challenge by ALX, where you fix code written by others, across different programming languages. - Fix_My_Code_Challenge/free_dlistint.c at main · Aysuarex/Fix_My_Code_Challenge" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/93e91fcc48e9cbd9edcf7e818177bf19dd097d2d92cf36443d3998d10fb651a5/Aysuarex/Fix_My_Code_Challenge" /><meta property="og:image:alt" content="A coding challenge by ALX, where you fix code written by others, across different programming languages. - Fix_My_Code_Challenge/free_dlistint.c at main · Aysuarex/Fix_My_Code_Challenge" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Fix_My_Code_Challenge/free_dlistint.c at main · Aysuarex/Fix_My_Code_Challenge" /><meta property="og:url" content="https://github.com/Aysuarex/Fix_My_Code_Challenge" /><meta property="og:description" content="A coding challenge by ALX, where you fix code written by others, across different programming languages. - Fix_My_Code_Challenge/free_dlistint.c at main · Aysuarex/Fix_My_Code_Challenge" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/115574712/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTU1NzQ3MTIsInMiOjEwNzU2NzA3OTEsImMiOjIyMTQzODUyMDIsInQiOjE2Nzk2NzYxMjJ9--aa343b04bc6c023237c98fb76bf9d02bb4d7fc6295111ffa5ecd17e0caf80688" data-refresh-url="/_alive" data-session-id="251eb393278eaa6a78ce9ad89b744b7cd3dee098bcd9c29cfe3ef88af0335d1b">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/55659240/ws?session=eyJ2IjoiVjMiLCJ1Ijo1NTY1OTI0MCwicyI6MTA3NDgxMjM2NiwiYyI6MzcxNjg4MTQyMSwidCI6MTY3OTY3NjE5OX0=--bd67ee5fa6cc65a207c28cd1f059a59f5a7d30ee1bc773aff3698e40471656c9" data-refresh-url="/_alive" data-session-id="9792cd8c9a642669d7825d357a0f9f9981a28ad4fb6c224d6e7261d57b0c8498">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -138,22 +138,22 @@
     <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,ACTIONS_SIGNALR_RECONNECT_JITTER">
 
 
-  <meta http-equiv="x-pjax-version" content="3dc76a2d8e71a8f2ba4debd79a3c4c673390bcfa0b5cfd407e0fe56950916b5c" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="a524593f1447a19e9e88d2fc8bec1f99c6bc89ea60712b99dcfdf7985cbb1ef7" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="2a84822a832da97f1ea76cf989a357ec70c85713a2fd8f14c8421b76bbffe38c" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="d63c5e293c03053caa5210551a7500c2653ef4453bc0584730af3dcd59c02677" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="c47e431e77c47f25de175232c4052552fd0743d4238e424cdbd1c7545ca310ff" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="a201ddb16d0c4de772f67b534a671dfd9e5e50d2672d6052f4001f68b9558d76" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/holbertonschool/0x00-Fix_My_Code_Challenge git https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge.git">
+  <meta name="go-import" content="github.com/Aysuarex/Fix_My_Code_Challenge git https://github.com/Aysuarex/Fix_My_Code_Challenge.git">
 
-  <meta name="octolytics-dimension-user_id" content="13408012" /><meta name="octolytics-dimension-user_login" content="holbertonschool" /><meta name="octolytics-dimension-repository_id" content="100750922" /><meta name="octolytics-dimension-repository_nwo" content="holbertonschool/0x00-Fix_My_Code_Challenge" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="100750922" /><meta name="octolytics-dimension-repository_network_root_nwo" content="holbertonschool/0x00-Fix_My_Code_Challenge" />
+  <meta name="octolytics-dimension-user_id" content="99369085" /><meta name="octolytics-dimension-user_login" content="Aysuarex" /><meta name="octolytics-dimension-repository_id" content="526976314" /><meta name="octolytics-dimension-repository_nwo" content="Aysuarex/Fix_My_Code_Challenge" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="526976314" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Aysuarex/Fix_My_Code_Challenge" />
 
 
 
-    <link rel="canonical" href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -225,7 +225,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="100750922" data-scoped-search-url="/holbertonschool/0x00-Fix_My_Code_Challenge/search" data-owner-scoped-search-url="/orgs/holbertonschool/search" data-unscoped-search-url="/search" data-turbo="false" action="/holbertonschool/0x00-Fix_My_Code_Challenge/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="526976314" data-scoped-search-url="/Aysuarex/Fix_My_Code_Challenge/search" data-owner-scoped-search-url="/users/Aysuarex/search" data-unscoped-search-url="/search" data-turbo="false" action="/Aysuarex/Fix_My_Code_Challenge/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -246,7 +246,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="_vNmkU0-VmapS5j6v0wp06uS624WFz2-MCXfFoCGpCp1DlBz5uzrOVYPH5Ztln8TIAgghmb23bQ9etCKbUcBIg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="nmUdo1Ogdvgr4p2_Ure5QMqccjOLR6sDNYX3wCYn4yhQY46iFvaqMIOUkyxMHpbCmE9xJKhXVcVE6oHj0QBxTA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -361,8 +361,8 @@
     </div>
 
     <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization">
-        In this organization
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user">
+        In this user
       </span>
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
@@ -445,15 +445,15 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;poldatateam&quot;,&quot;originating_url&quot;:&quot;https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:115574712}}" data-hydro-click-hmac="408fc0cbd44857476c2f30e6d9fb1e03c904cdae7fc073e8e612aad94baac9df" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;abbeylawal&quot;,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="1f9e6fd7ce8cd0dae36d6918c1995e3a92f0dfaa668778ad53667468ad40787e" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/poldatateam">
-      <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/115574712?s=40&amp;v=4" width="20" height="20" alt="@poldatateam" />
-      poldatateam
+    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/abbeylawal">
+      <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/55659240?s=40&amp;v=4" width="20" height="20" alt="@abbeylawal" />
+      abbeylawal
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NDbZTtS1jv_k-RFVnOneYSeD4ClvkhlC_Ln6-SCviuLow7gqYOoW3ogac6s0dTH2S7xn5ImnCofLwaHTxm8JUw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Qf-Hwf26RvTgzUK62n8B5vCGIHzOrx8uiQkaKYS-o4LI8RC2YDhshENRqmrihtpllvFM71-nxWyvxNNL5LEBFw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -488,7 +488,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE1NTc0NzEyIiwidCI6MTY3OTY3NjEyMn0=--ad9c7349782abf9ce9fdd042d5bc41ea64c55a7380bee95d01c77c8a5b6030de" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTU2NTkyNDAiLCJ0IjoxNjc5Njc2MTk5fQ==--d628b77d1e945a2c0c9295eba898c97ae3f4949a3d74cc16d9132cde7fbac244" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -557,14 +557,14 @@
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
         
-  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/poldatateam/feature_preview/indicator_check">
+  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/abbeylawal/feature_preview/indicator_check">
 
   <summary
     class="Header-link"
     aria-label="View profile and more"
     data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
-    <img src="https://avatars.githubusercontent.com/u/115574712?s=40&amp;v=4" alt="@poldatateam" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
+    <img src="https://avatars.githubusercontent.com/u/55659240?s=40&amp;v=4" alt="@abbeylawal" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="unread-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
     <span class="dropdown-caret"></span>
   </summary>
@@ -573,7 +573,7 @@
       style="width: 180px"
       
       preload>
-      <include-fragment src="/users/115574712/menu" loading="lazy">
+      <include-fragment src="/users/55659240/menu" loading="lazy">
         <p class="text-center mt-3" data-hide-on-error>
           <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -631,7 +631,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE1NTc0NzEyIiwidCI6MTY3OTY3NjEyMn0=--ad9c7349782abf9ce9fdd042d5bc41ea64c55a7380bee95d01c77c8a5b6030de" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTU2NTkyNDAiLCJ0IjoxNjc5Njc2MTk5fQ==--d628b77d1e945a2c0c9295eba898c97ae3f4949a3d74cc16d9132cde7fbac244" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -648,8 +648,8 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c
-      user-id="115574712"
+      return-to=/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c
+      user-id="55659240"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
       data-action="
@@ -752,23 +752,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="holbertonschool"
-                data-id="MDEyOk9yZ2FuaXphdGlvbjEzNDA4MDEy"
+                data-text="Aysuarex"
+                data-id="U_kgDOBexAfQ"
                 data-type="owner"
-                data-value="holbertonschool"
+                data-value="Aysuarex"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >holbertonschool<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >Aysuarex<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="0x00-Fix_My_Code_Challenge"
-                data-id="MDEwOlJlcG9zaXRvcnkxMDA3NTA5MjI="
+                data-text="Fix_My_Code_Challenge"
+                data-id="R_kgDOH2kFOg"
                 data-type="repository"
-                data-value="0x00-Fix_My_Code_Challenge"
+                data-value="Fix_My_Code_Challenge"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >0x00-Fix_My_Code_...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >Fix_My_Code_Chall...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -805,12 +805,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-cbb45ffb-3747-4c96-89bf-71d1d8a308a8" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-d9307c6c-aa9a-4520-b329-f4a8c1cac7b7" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="MDEwOlJlcG9zaXRvcnkxMDA3NTA5MjI="
+        data-default-scope-id="R_kgDOH2kFOg"
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1230,16 +1230,16 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="holbertonschool"
-              data-scope-id="MDEyOk9yZ2FuaXphdGlvbjEzNDA4MDEy"
+              data-page-title="Aysuarex"
+              data-scope-id="U_kgDOBexAfQ"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="0x00-Fix_My_Code_Challenge"
-              data-scope-id="MDEwOlJlcG9zaXRvcnkxMDA3NTA5MjI="
+              data-page-title="Fix_My_Code_Challenge"
+              data-scope-id="R_kgDOH2kFOg"
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1250,14 +1250,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="holbertonschool"
-            data-scope-id="MDEyOk9yZ2FuaXphdGlvbjEzNDA4MDEy"
+            data-page-title="Aysuarex"
+            data-scope-id="U_kgDOBexAfQ"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="0x00-Fix_My_Code_Challenge"
-            data-scope-id="MDEwOlJlcG9zaXRvcnkxMDA3NTA5MjI="
+            data-page-title="Fix_My_Code_Challenge"
+            data-scope-id="R_kgDOH2kFOg"
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1569,9 +1569,6 @@
 
 
     
-    
-
-
 
 
 
@@ -1591,12 +1588,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/holbertonschool/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/holbertonschool">
-        holbertonschool
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Aysuarex/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Aysuarex">
+        Aysuarex
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/holbertonschool/0x00-Fix_My_Code_Challenge">0x00-Fix_My_Code_Challenge</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Aysuarex/Fix_My_Code_Challenge">Fix_My_Code_Challenge</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1620,7 +1617,7 @@
           data-action="toggle:notifications-list-subscription-form#detailsToggled"
         >
 
-          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:100750922,&quot;originating_url&quot;:&quot;https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:115574712}}" data-hydro-click-hmac="00cc4fdb02e7816c56648d23d9aa7e0db55ea336e99e32a5f723dab2121e556c" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="4f938678a0290b3e814025107a1096b373416d12f43145229b3db39b3d294e54" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
               <span
                 hidden
                 
@@ -1652,7 +1649,7 @@
                 Watch
               </span>
             </span>
-              <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="7" data-view-component="true" class="Counter">7</span>
+              <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="1" data-view-component="true" class="Counter">1</span>
             <span class="dropdown-caret"></span>
 </summary>
           <details-menu
@@ -1672,9 +1669,9 @@
               </header>
 
               <div class="SelectMenu-list">
-                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aUo4ybXenWm7j7hqw-lMpl9M7Wm0-q40Xjw3WW18j_2dBUy9M7WUrTwoE23AstmmENFba2kdF2UrEFcp5Meh1A" autocomplete="off" />
+                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="n0aupZGnUKYQSix5dxnP99Aa0MG_eFmSLv-8tu8yYw6ErHc2KMvnLAz-zFFPg9L2v7h3gG6a_JhhN0R3mEO7uQ" autocomplete="off" />
 
-                  <input type="hidden" name="repository_id" value="100750922">
+                  <input type="hidden" name="repository_id" value="526976314">
 
                   <button
                     type="submit"
@@ -1779,16 +1776,6 @@
                   </div>
                 </button>
 
-                  <div class="px-3 py-2 d-flex color-bg-subtle flex-items-center">
-                    <span class="f5">
-                      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-mobile SelectMenu-icon SelectMenu-icon--device-mobile">
-    <path d="M3.75 0h8.5C13.216 0 14 .784 14 1.75v12.5A1.75 1.75 0 0 1 12.25 16h-8.5A1.75 1.75 0 0 1 2 14.25V1.75C2 .784 2.784 0 3.75 0ZM3.5 1.75v12.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM8 13a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-                    </span>
-                    <span className="text-small color-fg-muted text-normal pb-1">
-                      Get push notifications on <a target="_blank" rel="noopener noreferrer" href="https://apps.apple.com/app/apple-store/id1477376905?ct=watch-dropdown&amp;mt=8&amp;pt=524675">iOS</a> or <a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.github.android&amp;referrer=utm_campaign%3Dwatch-dropdown%26utm_medium%3Dweb%26utm_source%3Dgithub">Android</a>.
-                    </span>
-                  </div>
               </div>
             </div>
           </details-menu>
@@ -1800,9 +1787,9 @@
             hidden
           >
             <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7syb7fbBy-pkz6gQUZPHhvgjS6JYt5ISpvTOf8RqrYUag--ZcKrCLuNoAxdSyFKGt779oIVQK0PT2K4PTdGDrA" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="T0KWwgA8z3AOMGgLi3F_4bLRgej4Mdb9UV_UMVbSqldUqE9RuVB4-hKEiCOz62Lg3XMmqSnTc_celyzwIaNy4A" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="100750922">
+                <input type="hidden" name="repository_id" value="526976314">
 
                 <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                   <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1951,32 +1938,32 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/holbertonschool/0x00-Fix_My_Code_Challenge/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:100750922,&quot;originating_url&quot;:&quot;https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:115574712}}" data-hydro-click-hmac="5116a5f66a2e869c6969bf02ba5503ba159dc56a768a9283de48cd9441f4a36c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/Aysuarex/Fix_My_Code_Challenge/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="aa1e061a7a70248cd6541f101994469a313163afd117b04703ac2e9b4bc16da2" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="172" data-view-component="true" class="Counter">172</span>
-</a>    <tool-tip id="tooltip-13a82c22-174a-4e39-b812-0114b08d5ee0" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of holbertonschool/0x00-Fix_My_Code_Challenge</tool-tip>
+          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="12" data-view-component="true" class="Counter">12</span>
+</a>    <tool-tip id="tooltip-d05b4072-dfcc-4d75-b56f-4a7384b62848" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of Aysuarex/Fix_My_Code_Challenge</tool-tip>
 </div>
-      <details group_item="true" id="my-forks-menu-100750922" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+      <details group_item="true" id="my-forks-menu-526976314" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/holbertonschool/0x00-Fix_My_Code_Challenge/my_forks_menu_content?can_fork=true"
+      src="/Aysuarex/Fix_My_Code_Challenge/my_forks_menu_content?can_fork=true"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a92aff">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-231901">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-a92aff"
+        id="filter-menu-231901"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2018,34 +2005,34 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/holbertonschool/0x00-Fix_My_Code_Challenge/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mjgTxn-wPODm76hoQX6bgqwsR3OAmJY-rMEr9QVNoc6IjEg-Nq9cJQPRg39nYMZv5-rsKSo69lelqWUp1_sWZA" autocomplete="off" />
-          <input type="hidden" value="g13QjoFY01Y800Xvx5ZK_M05Nx6-MwoVadQADZ02BFOR6Yt2yEezk9ntbvjhiBcRhv-cRBSRanxgvE7RT4Cz-Q" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Aysuarex/Fix_My_Code_Challenge/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hRlPt9u5uUUa0Uw0z3gax-6_vpqZNds6j_QRyA87WUuLk747Wekq1Ayb1lttMqx_qo7ZopSJq0P8GlZLK_leDg" autocomplete="off" />
+          <input type="hidden" value="cPetXsle4L_B2UuMIDW9B90S-eDXyRAvy_QxgDE3NKJ-fVzSSw5zLteT0eOCfwu_mSOe2Np1YFa4GnYDFfUz5w" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:100750922,&quot;originating_url&quot;:&quot;https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:115574712}}" data-hydro-click-hmac="49142b0355c3cdfc9b5e86cfccc3ac7445dc2670a431dfb6a2993ddadeaa1fe4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (15)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="937d95d95fde58a3ed551ffaafc2b5dab6b04da4104143c96083e0d3bf0757cf" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
-</span>            <span id="repo-stars-counter-unstar" aria-label="15 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="15" data-view-component="true" class="Counter js-social-count">15</span>
-</button></form>        <details id="details-user-list-100750922-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-unstar" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
+</button></form>        <details id="details-user-list-526976314-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/holbertonschool/0x00-Fix_My_Code_Challenge/lists"
+      src="/Aysuarex/Fix_My_Code_Challenge/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-42bc0f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-dca1e8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-42bc0f"
+        id="filter-menu-dca1e8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2066,33 +2053,33 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/holbertonschool/0x00-Fix_My_Code_Challenge/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZFehKr1QsYy7WeLeoAdmTDi-_PcIAUkPQHOnL3g1qx-q1TiCl1bWygBeM6yKs87Dh83FZMy12s5zqXG8M_Sncg" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Aysuarex/Fix_My_Code_Challenge/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GajfGtLztq9fMgNhNL3mwBwhUboRYbYmJOodXbYpEV-ksp4rsT-ymidHSAQuCPUEEgJ7w-LO1NOVamKDqOj-YA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:100750922,&quot;originating_url&quot;:&quot;https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:115574712}}" data-hydro-click-hmac="e69846a23f568a7c212054463d8acee83e28d03d7cceb10eaa716de74b2a9dac" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (15)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="5fad0c70c2cf19ef344c23a1bfe40d652fedd21216062be5fb8a1cd0d067ddd8" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
-</span>            <span id="repo-stars-counter-star" aria-label="15 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="15" data-view-component="true" class="Counter js-social-count">15</span>
-</button></form>        <details id="details-user-list-100750922-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-star" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
+</button></form>        <details id="details-user-list-526976314-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/holbertonschool/0x00-Fix_My_Code_Challenge/lists"
+      src="/Aysuarex/Fix_My_Code_Challenge/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-11d619">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0f4776">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-11d619"
+        id="filter-menu-0f4776"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2128,7 +2115,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/holbertonschool/0x00-Fix_My_Code_Challenge" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /holbertonschool/0x00-Fix_My_Code_Challenge" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Aysuarex/Fix_My_Code_Challenge" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Aysuarex/Fix_My_Code_Challenge" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -2140,7 +2127,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/holbertonschool/0x00-Fix_My_Code_Challenge/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /holbertonschool/0x00-Fix_My_Code_Challenge/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Aysuarex/Fix_My_Code_Challenge/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Aysuarex/Fix_My_Code_Challenge/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -2152,7 +2139,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/holbertonschool/0x00-Fix_My_Code_Challenge/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /holbertonschool/0x00-Fix_My_Code_Challenge/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Aysuarex/Fix_My_Code_Challenge/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Aysuarex/Fix_My_Code_Challenge/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -2164,7 +2151,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/holbertonschool/0x00-Fix_My_Code_Challenge/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /holbertonschool/0x00-Fix_My_Code_Challenge/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Aysuarex/Fix_My_Code_Challenge/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Aysuarex/Fix_My_Code_Challenge/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -2176,7 +2163,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/holbertonschool/0x00-Fix_My_Code_Challenge/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /holbertonschool/0x00-Fix_My_Code_Challenge/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/Aysuarex/Fix_My_Code_Challenge/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Aysuarex/Fix_My_Code_Challenge/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -2188,18 +2175,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/holbertonschool/0x00-Fix_My_Code_Challenge/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /holbertonschool/0x00-Fix_My_Code_Challenge/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/Aysuarex/Fix_My_Code_Challenge/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Aysuarex/Fix_My_Code_Challenge/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/holbertonschool/0x00-Fix_My_Code_Challenge/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/Aysuarex/Fix_My_Code_Challenge/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/holbertonschool/0x00-Fix_My_Code_Challenge/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /holbertonschool/0x00-Fix_My_Code_Challenge/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Aysuarex/Fix_My_Code_Challenge/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Aysuarex/Fix_My_Code_Challenge/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -2221,31 +2208,31 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /holbertonschool/0x00-Fix_My_Code_Challenge" href="/holbertonschool/0x00-Fix_My_Code_Challenge">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Aysuarex/Fix_My_Code_Challenge" href="/Aysuarex/Fix_My_Code_Challenge">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /holbertonschool/0x00-Fix_My_Code_Challenge/issues" href="/holbertonschool/0x00-Fix_My_Code_Challenge/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Aysuarex/Fix_My_Code_Challenge/issues" href="/Aysuarex/Fix_My_Code_Challenge/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /holbertonschool/0x00-Fix_My_Code_Challenge/pulls" href="/holbertonschool/0x00-Fix_My_Code_Challenge/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Aysuarex/Fix_My_Code_Challenge/pulls" href="/Aysuarex/Fix_My_Code_Challenge/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /holbertonschool/0x00-Fix_My_Code_Challenge/actions" href="/holbertonschool/0x00-Fix_My_Code_Challenge/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Aysuarex/Fix_My_Code_Challenge/actions" href="/Aysuarex/Fix_My_Code_Challenge/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /holbertonschool/0x00-Fix_My_Code_Challenge/projects" href="/holbertonschool/0x00-Fix_My_Code_Challenge/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Aysuarex/Fix_My_Code_Challenge/projects" href="/Aysuarex/Fix_My_Code_Challenge/projects">
                   Projects
 </a>              </li>
               <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /holbertonschool/0x00-Fix_My_Code_Challenge/security" href="/holbertonschool/0x00-Fix_My_Code_Challenge/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Aysuarex/Fix_My_Code_Challenge/security" href="/Aysuarex/Fix_My_Code_Challenge/security">
                   Security
 </a>              </li>
               <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /holbertonschool/0x00-Fix_My_Code_Challenge/pulse" href="/holbertonschool/0x00-Fix_My_Code_Challenge/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Aysuarex/Fix_My_Code_Challenge/pulse" href="/Aysuarex/Fix_My_Code_Challenge/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -2279,7 +2266,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/holbertonschool/0x00-Fix_My_Code_Challenge/blob/393b1b05cb31214a1c7799488033c6e2ed4836ad/4-delete_dnodeint/free_dlistint.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Aysuarex/Fix_My_Code_Challenge/blob/a00bbf8ca8f24f5a887b7de4e636641549d5e98e/0x00-challenge/4-delete_dnodeint/free_dlistint.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2287,14 +2274,14 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:100750922,&quot;originating_url&quot;:&quot;https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:115574712}}" data-hydro-click-hmac="a1be9b286824cd956e8ddc544b17b754ec3d9b1d4d9bbbc1d8ffeb5e15b9ab70">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="1c2332d1fd95c75295ce1c01bbb8a6612bc880f600c0b4c1244e7af9447f7bbe">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>master</span>
+      <span class="css-truncate-target" data-menu-button>main</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2338,12 +2325,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/holbertonschool/0x00-Fix_My_Code_Challenge/refs"
+            query-endpoint="/Aysuarex/Fix_My_Code_Challenge/refs"
             
-            cache-key="v0:1503091170.0"
-            current-committish="bWFzdGVy"
-            default-branch="bWFzdGVy"
-            name-with-owner="aG9sYmVydG9uc2Nob29sLzB4MDAtRml4X015X0NvZGVfQ2hhbGxlbmdl"
+            cache-key="v0:1661013629.052054"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="QXlzdWFyZXgvRml4X015X0NvZGVfQ2hhbGxlbmdl"
             prefetch-on-mouseover
           >
 
@@ -2368,7 +2355,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/{{ urlEncodedRefName }}/4-delete_dnodeint/free_dlistint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/{{ urlEncodedRefName }}/0x00-challenge/4-delete_dnodeint/free_dlistint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2378,7 +2365,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/holbertonschool/0x00-Fix_My_Code_Challenge/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Aysuarex/Fix_My_Code_Challenge/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2392,11 +2379,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/holbertonschool/0x00-Fix_My_Code_Challenge/refs"
-            cache-key="v0:1503091170.0"
-            current-committish="bWFzdGVy"
-            default-branch="bWFzdGVy"
-            name-with-owner="aG9sYmVydG9uc2Nob29sLzB4MDAtRml4X015X0NvZGVfQ2hhbGxlbmdl"
+            query-endpoint="/Aysuarex/Fix_My_Code_Challenge/refs"
+            cache-key="v0:1661013629.052054"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="QXlzdWFyZXgvRml4X015X0NvZGVfQ2hhbGxlbmdl"
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2410,7 +2397,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/{{ urlEncodedRefName }}/4-delete_dnodeint/free_dlistint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/{{ urlEncodedRefName }}/0x00-challenge/4-delete_dnodeint/free_dlistint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2428,7 +2415,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/holbertonschool/0x00-Fix_My_Code_Challenge/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Aysuarex/Fix_My_Code_Challenge/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2471,9 +2458,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/holbertonschool/0x00-Fix_My_Code_Challenge"><span>0x00-Fix_My_Code_Challenge</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/holbertonschool/0x00-Fix_My_Code_Challenge/tree/master/4-delete_dnodeint"><span>4-delete_dnodeint</span></a></span><span class="separator">/</span><strong class="final-path">free_dlistint.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Aysuarex/Fix_My_Code_Challenge"><span>Fix_My_Code_Challenge</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Aysuarex/Fix_My_Code_Challenge/tree/main/0x00-challenge"><span>0x00-challenge</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Aysuarex/Fix_My_Code_Challenge/tree/main/0x00-challenge/4-delete_dnodeint"><span>4-delete_dnodeint</span></a></span><span class="separator">/</span><strong class="final-path">free_dlistint.c</strong>
   </h2>
-    <a href="/holbertonschool/0x00-Fix_My_Code_Challenge/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/Aysuarex/Fix_My_Code_Challenge/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2482,7 +2469,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:100750922,&quot;originating_url&quot;:&quot;https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:115574712}}" data-hydro-click-hmac="e1f1ee79446f28495908a792c27d0b7779a936bb2886c46477ff181162804a38" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/holbertonschool/0x00-Fix_My_Code_Challenge/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="8067658e08333f83e97f06fc60f00edf08d41e5dbf289cc47279f85b5913cbc3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Aysuarex/Fix_My_Code_Challenge/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2494,13 +2481,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="4-delete_dnodeint/free_dlistint.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x00-challenge/4-delete_dnodeint/free_dlistint.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/393b1b05cb31214a1c7799488033c6e2ed4836ad/4-delete_dnodeint/free_dlistint.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/a00bbf8ca8f24f5a887b7de4e636641549d5e98e/0x00-challenge/4-delete_dnodeint/free_dlistint.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2528,10 +2515,10 @@
   
 </div></div>
 
-    <include-fragment src="/holbertonschool/0x00-Fix_My_Code_Challenge/spoofed_commit_check/393b1b05cb31214a1c7799488033c6e2ed4836ad" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/Aysuarex/Fix_My_Code_Challenge/spoofed_commit_check/a00bbf8ca8f24f5a887b7de4e636641549d5e98e" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/holbertonschool/0x00-Fix_My_Code_Challenge/contributors/master/4-delete_dnodeint/free_dlistint.c" class="commit-loader">
+  <include-fragment src="/Aysuarex/Fix_My_Code_Challenge/contributors/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2565,6 +2552,8 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
+      <span class="file-mode" title="File mode">executable file</span>
+      <span class="file-info-divider"></span>
       20 lines (18 sloc)
       <span class="file-info-divider"></span>
     286 Bytes
@@ -2574,32 +2563,32 @@
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/holbertonschool/0x00-Fix_My_Code_Challenge/raw/393b1b05cb31214a1c7799488033c6e2ed4836ad/4-delete_dnodeint/free_dlistint.c" href="/holbertonschool/0x00-Fix_My_Code_Challenge/raw/master/4-delete_dnodeint/free_dlistint.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/holbertonschool/0x00-Fix_My_Code_Challenge/blame/393b1b05cb31214a1c7799488033c6e2ed4836ad/4-delete_dnodeint/free_dlistint.c" href="/holbertonschool/0x00-Fix_My_Code_Challenge/blame/master/4-delete_dnodeint/free_dlistint.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Aysuarex/Fix_My_Code_Challenge/raw/a00bbf8ca8f24f5a887b7de4e636641549d5e98e/0x00-challenge/4-delete_dnodeint/free_dlistint.c" href="/Aysuarex/Fix_My_Code_Challenge/raw/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Aysuarex/Fix_My_Code_Challenge/blame/a00bbf8ca8f24f5a887b7de4e636641549d5e98e/0x00-challenge/4-delete_dnodeint/free_dlistint.c" href="/Aysuarex/Fix_My_Code_Challenge/blame/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/holbertonschool/0x00-Fix_My_Code_Challenge/edit/master/4-delete_dnodeint/free_dlistint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5xFwWioGzkwTiv75JXAgx_FMX7lwxFYPLb3LC9gWpkuF6a7sj4y1F_y0jbxd7eAGfKaa_g7GCeiAz3qspnnsyA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Aysuarex/Fix_My_Code_Challenge/edit/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OzE1cj3V5x3Iebhw9qGF3ODS6h065x8x9HRVDAHDa4de9vFQluKhbTHk-LmHRZq2OQT7Q97y_vkYs174YJ495A" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:100750922,&quot;actor_id&quot;:115574712,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:526976314,&quot;actor_id&quot;:55659240,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/holbertonschool/0x00-Fix_My_Code_Challenge/edit/master/4-delete_dnodeint/free_dlistint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9OaJokp6mz731SYuqP0_I262VCkdYZU1XI_bIGdrYPKWHlcU7_DgZRjrVWvQYP_i41yRbmNjytLx_WqHGQQqcQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Aysuarex/Fix_My_Code_Challenge/edit/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iHcqyZc30uMCl3vqXzcAlvW48NbSb25hjCH68IPTOhntsO7rPACUk_sKOyMu0x_8LG7hiDZ6j6lg5vEE4o5seg" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:100750922,&quot;actor_id&quot;:115574712,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:526976314,&quot;actor_id&quot;:55659240,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="https://desktop.github.com" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/Aysuarex/Fix_My_Code_Challenge?branch=main&amp;filepath=0x00-challenge%2F4-delete_dnodeint%2Ffree_dlistint.c" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2610,10 +2599,35 @@
 
         
 <div >
-  </div>
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Aysuarex/Fix_My_Code_Challenge/raw/a00bbf8ca8f24f5a887b7de4e636641549d5e98e/0x00-challenge/4-delete_dnodeint/free_dlistint.c" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="70258a6a151627991aa2a05c42b46ba1d742da0a8f5ac92cd0e53025b5aaa2ed" aria-label="Copy raw contents">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Copied!">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+      </span>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+      </span>
+</span>
+</remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/holbertonschool/0x00-Fix_My_Code_Challenge/delete/master/4-delete_dnodeint/free_dlistint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PmEDLFvh-Yxmnn89xjfQa1uWhpk53Bfu2tJUgeU8XxBdP6pO-Z4p5CyRrNp8MoFMPWc35V5btHXIhFIzqg_UxQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Aysuarex/Fix_My_Code_Challenge/delete/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BeMbU-TpUahUE31XyaEn61Mz7uI3LcUq52PxObVycwcsdfl6CsnoMQTxCH6iSPCkV7ohFkTa9peIhQz5RRXDtA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2630,7 +2644,7 @@
           aria-haspopup="true"
           aria-label="possible actions"
           
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:100750922,&quot;actor_id&quot;:115574712,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:526976314,&quot;actor_id&quot;:55659240,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
@@ -2641,32 +2655,56 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="https://desktop.github.com">
+                   href="x-github-client://openRepo/https://github.com/Aysuarex/Fix_My_Code_Challenge?branch=main&amp;filepath=0x00-challenge%2F4-delete_dnodeint%2Ffree_dlistint.c">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/holbertonschool/0x00-Fix_My_Code_Challenge/raw/master/4-delete_dnodeint/free_dlistint.c">
+            <a class="dropdown-item" href="/Aysuarex/Fix_My_Code_Challenge/raw/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c">
               View raw
             </a>
           </li>
             <li>
-                          </li>
+              <remote-clipboard-copy class="dropdown-item" data-src="/Aysuarex/Fix_My_Code_Challenge/raw/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:526976314,&quot;originating_url&quot;:&quot;https://github.com/Aysuarex/Fix_My_Code_Challenge/blob/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c&quot;,&quot;user_id&quot;:55659240}}" data-hydro-click-hmac="70258a6a151627991aa2a05c42b46ba1d742da0a8f5ac92cd0e53025b5aaa2ed">
+                    Copy raw contents
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
+                  <span class="d-inline-block position-relative" style="top: 3px">
+                    <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+                  </span>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span>
+</remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/holbertonschool/0x00-Fix_My_Code_Challenge/blame/master/4-delete_dnodeint/free_dlistint.c">
+              <a class="dropdown-item" href="/Aysuarex/Fix_My_Code_Challenge/blame/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/holbertonschool/0x00-Fix_My_Code_Challenge/edit/master/4-delete_dnodeint/free_dlistint.c">Edit file</a>
+                <a class="dropdown-item" href="/Aysuarex/Fix_My_Code_Challenge/edit/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c">Edit file</a>
               </li>
                 <li>
-                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:100750922,&quot;actor_id&quot;:115574712,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
+                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:526976314,&quot;actor_id&quot;:55659240,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/holbertonschool/0x00-Fix_My_Code_Challenge/delete/master/4-delete_dnodeint/free_dlistint.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Aysuarex/Fix_My_Code_Challenge/delete/main/0x00-challenge/4-delete_dnodeint/free_dlistint.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2702,7 +2740,7 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="4-delete_dnodeint/free_dlistint.c">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x00-challenge/4-delete_dnodeint/free_dlistint.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
           <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>string.h<span class="pl-pds">&gt;</span></span></td>
@@ -2809,8 +2847,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/holbertonschool/0x00-Fix_My_Code_Challenge/blame/393b1b05cb31214a1c7799488033c6e2ed4836ad/4-delete_dnodeint/free_dlistint.c">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/holbertonschool/0x00-Fix_My_Code_Challenge/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Aysuarex/Fix_My_Code_Challenge/blame/a00bbf8ca8f24f5a887b7de4e636641549d5e98e/0x00-challenge/4-delete_dnodeint/free_dlistint.c">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Aysuarex/Fix_My_Code_Challenge/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -2842,7 +2880,7 @@
   <details-dialog
     class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-visible"
       aria-label="Provide feedback"
-      src="/holbertonschool/0x00-Fix_My_Code_Challenge/repos/code_nav_survey"
+      src="/Aysuarex/Fix_My_Code_Challenge/repos/code_nav_survey"
       
     >
     <div class="Box-header">
@@ -2976,7 +3014,7 @@
 
 
     <style>
-      .user-mention[href$="/poldatateam"] {
+      .user-mention[href$="/abbeylawal"] {
         color: var(--color-user-mention-fg);
         background-color: var(--color-user-mention-bg);
         border-radius: 2px;
